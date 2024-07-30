@@ -1,0 +1,359 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+*{
+    font-family: "Mulish", sans-serif;
+}
+.menu ul li a{
+    color: rgb(0, 66, 103)!important;
+    font-size: 14px !important;
+    margin-right: 10px;
+    font-weight:800 !important;
+}
+.booknow{
+    background-image: linear-gradient(to right, #4a9c46, #3db138, #40d954, #5cc044, #4b9f45) !important;
+    color: white;
+    border: none;
+    padding: 8px 25px;
+    margin-right: 10px;
+}
+.callBtn {
+    color: #f3842f;
+    font-size: 15px;
+    font-weight: bold;
+    border: 2px solid;
+    padding: 7px 10px;
+    text-decoration: none;
+    line-height: 22px;
+}
+.form-section{
+    background-color: #306598;
+}
+
+a.btn1 {
+background-image: linear-gradient(to right, #4a9c46, #3db138, #40d954, #5cc044, #4b9f45);
+    padding: 8px 20px;
+    bottom: 0px;
+    margin: auto;
+    right: inherit;
+    color: #fff !important;
+    font-size: 15px;
+    cursor: pointer;
+    transform: inherit;
+    border: 0;
+    perspective: 100px;
+    outline: 0 !important;
+    z-index: 99;
+    margin-top: 20px;
+    position: relative;
+    top: 14px;
+    border-radius: 0px;
+}
+.mb30 {
+    margin-bottom: 30px;
+}
+.color-primary {
+    color: #306598 !important;
+}
+element.style {
+    max-width: 320px;
+    margin: auto;
+    cursor: pointer;
+}
+.brochurebutton {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 23px;
+    background-color: #ce9600;
+    background-color: green;
+    color: #000;
+}
+.unlockbuttonstyler {
+    background-color: #ce9600;
+    border: none;
+    margin-bottom: 0 !important;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, .5);
+    background-image: linear-gradient(315deg, #f0af00 0%, #ffc820 74%);
+}
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 14px;
+    line-height: 25px;
+    font-family: Muli;
+    color: #000;
+    overflow-x: hidden;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+body {
+    position: relative;
+    margin: 0;
+    font: 14px 'Gotham', 'Open Sans', Arial, sans-serif;
+    background: #fff;
+    margin: 0;
+    line-height: 21px;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+element.style {
+    background-color: #FEFEFE;
+}
+footer, section {
+    padding: 66px 0;
+    position: relative;
+    overflow: hidden;
+}
+details, footer, header, main, menu, nav, section {
+    display: block;
+}
+section {
+    padding: 2px 0;
+    float: left;
+    width: 100%;
+}
+
+
+user agent stylesheet
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 14px;
+    line-height: 25px;
+    font-family: Muli;
+    color: #000;
+    overflow-x: hidden;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+body {
+    position: relative;
+    margin: 0;
+    font: 14px 'Gotham', 'Open Sans', Arial, sans-serif;
+    background: #fff;
+    margin: 0;
+    line-height: 21px;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+a {
+    font-weight: 600;
+    color: #306598;
+    transition: all .3s ease;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    cursor: poitner;
+}
+a, a:active, a:focus, a:hover, a:visited {
+    text-decoration: none;
+    outline: 0;
+}
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+a {
+    background-color: transparent;
+}
+a, .clogo, .logo, .navi > li > a::before, .redmrecnt2, .mnulnk > span, .mnulnk.opened span::before, .mnulnk.opened span::after, .enbt, .enbt a img, .enbt a span, .enbt.mob, .hedleft, .navigate, .rerahed, .chrmns:hover .chrimg > img, .chrmns:hover .chrimg > img, .dtails, .fill {
+    -webkit-transition: all 500ms ease-in-out;
+    -moz-transition: all 500ms ease-in-out;
+    -ms-transition: all 500ms ease-in-out;
+    -o-transition: all 500ms ease-in-out;
+    transition: all 500ms ease-in-out;
+}
+button, a {
+    outline: 0 !important;
+}
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+a {
+    background-color: transparent;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.text-center {
+    text-align: center;
+}
+.text-center {
+    text-align: center;
+}
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 14px;
+    line-height: 25px;
+    font-family: Muli;
+    color: #000;
+    overflow-x: hidden;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+body {
+    position: relative;
+    margin: 0;
+    font: 14px 'Gotham', 'Open Sans', Arial, sans-serif;
+    background: #fff;
+    margin: 0;
+    line-height: 21px;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+.makeapp {
+    color: #fff;
+    /* border-color: #fff; */
+    padding: 15px;
+    margin-right: 15px;
+    height: auto;
+    border: none;
+    font-size: 18px;
+    color: #fff !important;
+    background-image: linear-gradient(to right, #4a9c46, #3db138, #40d954, #5cc044, #4b9f45);
+}
+
+button, input[type=password], input[type=text], select, textarea {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+.pb96 {
+    padding-bottom: 96px;
+}
+.pt96 {
+    padding-top: 96px;
+}
+.bg-primary {
+    background: #306598 !important;
+    background-color: #306598 !important;
+}
+.bg-primary {
+    color: #fff;
+    background-color: #337ab7;
+}
+.bg-primary {
+    color: #fff;
+    background-color: #337ab7;
+}
+footer {
+    padding: 72px 0;
+}
+footer, section {
+    padding: 66px 0;
+    position: relative;
+    overflow: hidden;
+}
+details, footer, header, main, menu, nav, section {
+    display: block;
+}
+footer {
+    text-align: center;
+    padding: 20px 0px;
+    clear: both;
+    padding-bottom: 0px;
+    border-top: 3px solid #d0d0d0;
+    margin-top: 15px;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+footer {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 14px;
+    line-height: 25px;
+    font-family: Muli;
+    color: #000;
+    overflow-x: hidden;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+body {
+    position: relative;
+    margin: 0;
+    font: 14px 'Gotham', 'Open Sans', Arial, sans-serif;
+    background: #fff;
+    margin: 0;
+    line-height: 21px;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
